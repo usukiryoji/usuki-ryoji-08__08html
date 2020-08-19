@@ -1,0 +1,44 @@
+.box1  {
+    background-image: url("../img/01.jpg ");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 945px;
+    height: 370px;
+    margin: 0 auto;
+}
+
+   .box1 p {
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 120px;
+    }
+
+    .box2  {
+        background-image: url("../img/02.jpg ");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        width: 945px;
+        height: 370px;
+        margin: 0 auto;
+    }
+
+   p.box2_title{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 130px;  
+    }
+
+
+ p.box2_text {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}      
